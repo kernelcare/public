@@ -2590,6 +2590,7 @@
         "libutil.so.1": "66550b0824ce16fbc296061c0718f5cf8ef03be2",
         "openssl": "b40edf25618b4f1fd351aa628d998c6002d505ba"
     },
+    "debian-gnu/linux12": "ref-debian12",
     "debian9": {
         "ANSI_X3.110.so": "7b02ea3d7608060574b7f68557ba09593460e99b",
         "ARMSCII-8.so": "1193ff8777756260b9a62093fa4aa9cf53e7d9a1",
