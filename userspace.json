@@ -853,6 +853,10 @@
         "VISCII.so": "ca09e92377554f96f8b64cd41ac0af4f7f862746",
         "XBS5_LP64_OFF64": "ed2b1117c7056bf82f7b79560b79482b1f92c32b",
         "iconvconfig": "011128757fb7cb58c57dff18d6be3caa1174b0ca",
+        "kpatch_package.so": "223c8f5e6ade5614730f1df1e9a138776c90358d",
+        "kpatch_package.so.debug": "7ce3aacf26f343d6d466a0f318c57652e893fe2f",
+        "kpatch_package.so.nessus": "2ee01be7cbd16d4dce247160529dfd89c9c73287",
+        "kpatch_package.so.qualys": "234ffb7f265502c435e552a46ce5ec494a63c3c2",
         "ld-2.17.so": "103a33736397974f5f89102898411f7208e7d841",
         "ld-2.28.so": "33d30c20d175357a3497081e95f0fa482c840b40",
         "ldconfig": "a06aa514f0cbf6577459ff157fb4f3237e8e3b10",
@@ -869,6 +873,8 @@
         "libanl-2.28.so": "2851fe5d9d6ed87a7d4b889d95d934fe6650ee94",
         "libc-2.17.so": "32c239e375f673bcca264b717e7ac4b7bd5abadc",
         "libc-2.28.so": "a91d7b51b23a64e86b82a91511c446c137d3ec8e",
+        "libcare-plugin.so": "95186822c19ebb8f638cb02d5b2290b94ed2095c",
+        "libcare-server": "8884320698bece8da0087a5a73d266fcf924cc11",
         "libcidn-2.17.so": "746a13d0acaae3648ab353557345f94d760405c8",
         "libcrypt-2.17.so": "97be6f9199fed4491b00aa91f7e6eacc4d5328f7",
         "libdl-2.17.so": "7f2e9cb0769d7e57bd669b485a74b537b63a57c4",
@@ -1754,6 +1760,7 @@
     "cloudlinux7.*": "ref-cl7",
     "cloudlinux8.*": "ref-cl8",
     "debian-gnu/linux11": "ref-debian11",
+    "debian-gnu/linux12": "ref-debian12",
     "debian10": {
         "ANSI_X3.110.so": "72aef519867891d501ce2a4f0e54e59f51869fdf",
         "ARMSCII-8.so": "5279ce06fc38800f098c187dd9701bd466a4f0df",
@@ -2590,7 +2597,6 @@
         "libutil.so.1": "66550b0824ce16fbc296061c0718f5cf8ef03be2",
         "openssl": "b40edf25618b4f1fd351aa628d998c6002d505ba"
     },
-    "debian-gnu/linux12": "ref-debian12",
     "debian9": {
         "ANSI_X3.110.so": "7b02ea3d7608060574b7f68557ba09593460e99b",
         "ARMSCII-8.so": "1193ff8777756260b9a62093fa4aa9cf53e7d9a1",
