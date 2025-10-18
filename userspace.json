@@ -4374,7 +4374,7 @@
         "librt.so.1": "1a11e03063e9160803ab6a87cece2ad25346f20f",
         "libthread_db.so.1": "687319306c70847e7d1aa793e08e2ca5222c36f3",
         "libutil.so.1": "c231c69ec0248cd17d9b3a1e2883a0386dda53fb",
-        "openssl": "58df909449f833cc6174ef3ba91e0629334db0e2",
+        "openssl": "c2f32500b66e5894cfe36fd69ac7b592a1761da7",
         "sotruss-lib.so": "f12cf1401a13f43d37f7f297d2a886f485adfffc"
     },
     "ubuntu-bionic": {
